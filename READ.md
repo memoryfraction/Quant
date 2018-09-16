@@ -6,9 +6,9 @@ Output for bond pricing model
 
 
 Below pics show that daily return show normal distribution
-20010101-20180101_AAPL_DailyReturn
+20010101-20180101_AAPL_DailyReturn   
 ![image](https://github.com/memoryfraction/Quant/blob/master/Images/20010101-20180101_AAPL_DailyReturn.png?raw=true)
 
-20010101-20180101_WMT_DailyReturn
+20010101-20180101_WMT_DailyReturn   
 ![image](https://github.com/memoryfraction/Quant/blob/master/Images/20010101-20180101_WMT_DailyReturn.png?raw=true)
 
