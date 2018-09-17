@@ -12,3 +12,11 @@ Below pics show that daily return show normal distribution
 20010101-20180101_WMT_DailyReturn   
 ![image](https://github.com/memoryfraction/Quant/blob/master/Images/20010101-20180101_WMT_DailyReturn.png?raw=true)
 
+
+![image](https://github.com/memoryfraction/Quant/blob/master/Images/1.png?raw=true)
+
+![image](https://github.com/memoryfraction/Quant/blob/master/Images/2.png?raw=true)
+
+![image](https://github.com/memoryfraction/Quant/blob/master/Images/3.png?raw=true)
+
+![image](https://github.com/memoryfraction/Quant/blob/master/Images/4.png?raw=true)
