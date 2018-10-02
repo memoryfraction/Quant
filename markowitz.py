@@ -9,8 +9,8 @@ import scipy.optimize as optimization
 stocks = ['CMCSA','BABA','TSCO','FCAU','TSM','CVS']
 
 #we use historical data to approximate mean and variance: MPT depends on historical data !!!
-start_date='01/01/2000'
-end_date ='09/01/2019'
+start_date='09/18/2013'
+end_date ='09/18/2018'
 
 #downloading the data from Yahoo! Finance
 def download_data(stocks):
