@@ -6,10 +6,10 @@ import datetime
 import scipy.optimize as optimization
 
 #these are the stocks we can choose in our portfolio
-stocks = ['CMCSA','BABA','TSCO','FCAU','TSM','CVS']
+stocks = ['AAPL','G','FB','BABA','MSFT']
 
 #we use historical data to approximate mean and variance: MPT depends on historical data !!!
-start_date='09/18/2013'
+start_date='09/18/2010'
 end_date ='09/18/2018'
 
 #downloading the data from Yahoo! Finance
